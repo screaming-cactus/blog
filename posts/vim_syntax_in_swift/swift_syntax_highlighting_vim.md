@@ -21,6 +21,6 @@ Then lastly ensure that the option for syntax highlighting is on in your `.vimrc
 
 And if everything went ok and all is right with the world you should see this:
 
-![](/images/after.png)
+![](images/after.png)
 
 Isn't it beautiful?
